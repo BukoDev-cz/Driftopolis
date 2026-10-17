@@ -1,2 +1,0 @@
-# Driftopolis
-Openworld car game
